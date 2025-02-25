@@ -1,0 +1,25 @@
+2025-02-25 21:11:56,869 - ERROR - Это ошибка.
+2025-02-25 21:11:56,869 - INFO - Это информационное сообщение.
+2025-02-25 21:11:56,869 - WARNING - Это предупреждение.
+2025-02-25 21:11:56,996 - INFO - Данные для города MOSCOW успешно записаны в файл: weather_data\moscow_weather.json
+2025-02-25 21:11:57,086 - INFO - Данные для города PARIS успешно записаны в файл: weather_data\paris_weather.json
+2025-02-25 21:11:57,180 - INFO - Данные для города LONDON успешно записаны в файл: weather_data\london_weather.json
+2025-02-25 21:11:57,296 - INFO - Данные для города BERLIN успешно записаны в файл: weather_data\berlin_weather.json
+2025-02-25 21:11:57,368 - INFO - Данные для города BEIJING успешно записаны в файл: weather_data\beijing_weather.json
+2025-02-25 21:11:57,448 - INFO - Данные для города KAZAN успешно записаны в файл: weather_data\kazan_weather.json
+2025-02-25 21:11:57,833 - INFO - Данные для города SPETERSBURG успешно записаны в файл: weather_data\spetersburg_weather.json
+2025-02-25 21:11:57,903 - INFO - Данные для города VOLGOGRAD успешно записаны в файл: weather_data\volgograd_weather.json
+2025-02-25 21:11:57,991 - INFO - Данные для города NOVOSIBIRSK успешно записаны в файл: weather_data\novosibirsk_weather.json
+2025-02-25 21:11:58,065 - INFO - Данные для города KALININGRAD успешно записаны в файл: weather_data\kaliningrad_weather.json
+2025-02-25 21:11:58,183 - INFO - Данные для города ABUDHABI успешно записаны в файл: weather_data\abudhabi_weather.json
+2025-02-25 21:11:58,271 - INFO - Данные для города WARSZAWA успешно записаны в файл: weather_data\warszawa_weather.json
+2025-02-25 21:11:58,361 - INFO - Данные для города BUCHAREST успешно записаны в файл: weather_data\bucharest_weather.json
+2025-02-25 21:11:58,455 - INFO - Данные для города ROMA успешно записаны в файл: weather_data\roma_weather.json
+2025-02-25 21:11:58,523 - INFO - Данные для города CAIRO успешно записаны в файл: weather_data\cairo_weather.json
+2025-02-25 21:11:58,574 - ERROR - Страница не найдена: https://code.s3.yandex.net/async-module/giza-response.json
+2025-02-25 21:11:58,575 - WARNING - Не удалось получить данные для города GIZA.
+2025-02-25 21:11:58,628 - ERROR - Пустой JSON-ответ: https://code.s3.yandex.net/async-module/madrid-response.json
+2025-02-25 21:11:58,628 - WARNING - Не удалось получить данные для города MADRID.
+2025-02-25 21:11:58,720 - ERROR - Ошибка разбора JSON: Extra data: line 19 column 4 (char 328)
+2025-02-25 21:11:58,721 - ERROR - URL ошибки выше: https://code.s3.yandex.net/async-module/toronto-response.json
+2025-02-25 21:11:58,721 - WARNING - Не удалось получить данные для города TORONTO.

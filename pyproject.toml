@@ -2,7 +2,7 @@
 name = "async-python-sprint-2"
 version = "0.1.0"
 description = ""
-authors = ["Dmitry Fadeev <d.fadeev@1440.space>"]
+authors = ["Dmitry Fadeev <dmfmaal@gmail.com>"]
 readme = "README.md"
 packages = [{include = "async_python_sprint_2"}]
 
