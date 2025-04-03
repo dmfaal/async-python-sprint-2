@@ -2,6 +2,7 @@ import asyncio
 from typing import List
 from job import Job
 
+
 class Scheduler:
     def __init__(self, pool_size: int = 10):
         self.pool_size = pool_size
@@ -22,7 +23,7 @@ class Scheduler:
             await asyncio.gather(*(task.run() for task in current_tasks))
 
             # Удаляем выполненные задачи
-            self.tasks = self.tasks[self.pool_size :]
+            self.tasks = self.tasks[self.pool_size:]
 
         self._is_running = False
         print("Все задачи выполнены.")

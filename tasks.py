@@ -1,7 +1,4 @@
-import os
-import json
 from API_files.API_client import YandexWeatherAPI
-from API_files.utils import CITIES
 
 import os
 import json
